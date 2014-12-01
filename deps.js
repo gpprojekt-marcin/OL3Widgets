@@ -1,0 +1,2 @@
+goog..addDependency('https://raw.githubusercontent.com/gpprojekt/OL3Widgets/master/layerswidget.js', ['ol.widget.LayersSwitcher'], ['goog.dom', 'goog.dom.TagName', 'goog.events', 'goog.events.EventType', 'ol.dom.Input', 'ol.widget.Widget']);
+goog.addDependency('https://raw.githubusercontent.com/gpprojekt/OL3Widgets/master/widget.js', ['ol.widget.Class', 'ol.widget.Widget'], ['goog.array', 'goog.dom', 'goog.dom.classes', 'goog.events', 'goog.style', 'ol.MapEventType', 'ol.Object', 'ol.css']);
